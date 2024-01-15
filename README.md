@@ -17,8 +17,6 @@ X Education, an online education company, faces a challenge with its lead conver
 - Lead_Score_case_study.ipynb : The python file showing coding and data analysis
 - Assignment Subjective Questions.docx : Some subjective questions answered
 - Lead_Score_Case_Study_ppt.pdf : Final Presentation
-- Leads.csv : Data worked on
-- Leads Data Dictionary.xlsx : Data Dictionary
 - Lead_Score_Summary.pdf : Summary on what's done in the entire py file
 
 
